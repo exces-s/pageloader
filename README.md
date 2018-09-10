@@ -1,4 +1,4 @@
-# Pageloader
+# Pageloader (project-lvl3-s238)
 This program downloads the page from web to specified folder (to the program's start directory by default).
 
 Code in `src/index.js` wrote with Promises. Index.js in `src/asyncAwaitIndex/` rewrite with async/await. This index-files are fully interchangeable.
